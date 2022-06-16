@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Portfolio </title>
+
+</head>
+
+<body>
+
+<table width="80%" align="center" bgcolor="#a3a3c2" cellspacing="10">
+
+
+
+<!--**********FIRST ROW START********** -->
+<tr>
+
+
+<!--**********HEADER SECTION START********** -->
+<td colspan="2" bgcolor="#ECF0F1">
+
+<img src="images/header.jpg">
+ 
+
+</td>
+<!--**********HEADER SECTION END********** -->
+
+
+</tr>
+<!--**********FIRST ROW END********** -->
+
+
+
+
+
+<!--**********SECOND ROW START********** -->
+<tr>
+ 
+<!--**********CONTENT SECTION START********** -->
+<td bgcolor="#E8DAEF">
+
+
+
+<h1>PORTFOLIO<h1>
+<h3> This is the result of my work in my Diploma of Information Management at UITM Kampus Rembau. This is from the assignment for IMD311 (Introduction to Web Content Management and Design).</h3>
+
+<div style="text-align: center;">
+
+	<img src="images/work2.png" alt="Homepage" width="500" height="300"> 
+
+	<img src="images/work.png" alt="Product" width="500" height="300"> 
+
+	<img src="images/work3.png" alt="poster" width="500" height="300"> 
+
+	<img src="images/work4.png" alt="about" width="500" height="300"> 
+
+	<img src="images/work5.png" alt="vision and mission" width="500" height="300"> 
+
+	<img src="images/work6.png" alt="contact" width="500" height="300"> 
+
+</div>
+
+<!--**********SIDEBAR SECTION START********** -->
+<td bgcolor="#E8DAEF" valign="top">
+
+
+<ul>
+<li><a href="index.html">About me</a></li>
+<li><a href="resume.html">Resume</a></li>
+<li><a href="portfolio.html">Portfolio</a></li>
+<li><a href="blog.html">Blog</a></li>
+<li><a href="contact.html">Contact Me</a></li>
+</ul>
+
+<div style="text-align: center;">
+	<img src="images/quotes1.jpg" width="450" height="850">
+</div>
+
+
+<!--**********SIDEBAR SECTION END********** -->
+<td>
+</td>
+
+
+
+
+</td>
+<!--**********CONTENT SECTION END********** -->
+
+</tr>
+<!--**********SECOND ROW END********** -->
+
+
+
+
+
+
+<!--**********THIRD ROW START********** -->
+<tr>
+
+<!--**********FOOTER SECTION START********** -->
+<td colspan="2" bgcolor="#D7DBDD">
+
+<div style="text-align: center;">
+
+<p>Contact me via my student email or my phone number :</p>
+
+<p><a href="tel:+60197222099">+60197222099</a></p>
+
+<p><a href="mailto:2022931101@student.uitm.edu.my">Send email</a></p>
+
+<h2>Copyright &copy;</h2>
+
+</div>
+
+
+</td>
+<!--**********FOOTER SECTION END********** -->
+
+</tr>
+<!--**********FOOTER ROW END********** -->
+
+
+
+</table>
+
+</body>
+</head>
+</html>

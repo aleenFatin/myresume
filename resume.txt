@@ -1,0 +1,161 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Resume </title>
+
+</head>
+
+<body>
+
+<table width="80%" align="center" bgcolor="#a3a3c2" cellspacing="10">
+
+
+
+<!--**********FIRST ROW START********** -->
+<tr>
+
+
+<!--**********HEADER SECTION START********** -->
+<td colspan="2" bgcolor="#ECF0F1">
+
+<img src="images/header.jpg">
+
+
+</td>
+<!--**********HEADER SECTION END********** -->
+
+</tr>
+<!--**********FIRST ROW END********** -->
+
+
+
+
+
+<!--**********SECOND ROW START********** -->
+<tr>
+ 
+<!--**********CONTENT SECTION START********** -->
+<td bgcolor="#E8DAEF">
+
+
+
+<h1>RESUME<h1>
+
+<div style="text-align: center;">
+	<img src="images/gambar.jpg" width="200" height="250">
+	<p>ALEEN NUR FATIN BINTI SHAARI</p>
+	<p>Website Developer</p>
+</div>
+
+<h3>WORK EXPERIENCE<h3>
+<h4>Store Assistant</h4>
+
+<ul>
+<li>BdPrint Services at Bukit Sentosa 2, Rawang</li>
+<li>01/19 - 04/19</li>
+<li>Arranging records and any important documents</li>
+<li>Doing the banner and other printing services</li>
+<li>Collecting order from customer and help the designer design their work</li>
+</ul>
+
+<h4> Cooperative Assistant</h4>
+
+<ul>
+<li>Koperasi Masjid As Salam at Bukit Sentosa 2, Rawang</li>
+<li>02/21 - 07/21</li>
+<li>Advertise and sell the product both offline and online</li>
+<li>Dealing with all matters related with insurans for customer</li>
+<li>Collecting and keeping all the quotation, invoices and any important documents</li>
+</ul>
+
+
+<h3>EDUCATION<h3>
+
+<h4>Universiti teknologi MARA (UITM)</h4>
+
+<ul>
+<li>UITM Kampus Rembau</li>
+<li>Faculty of Information Management</li>
+<li>Diploma in Information Management</li>
+<li>06/19 - 02/22</li>
+</ul>
+
+
+
+<h3>LANGUAGE<h3>
+
+<ul>
+<li>Bahasa Melayu</li>
+<li>English</li>
+<li>Japanese</li>
+</ul>
+
+
+
+<!--**********SIDEBAR SECTION START********** -->
+<td bgcolor="#E8DAEF" valign="top">
+
+
+<ul>
+<li><a href="index.html">About me</a></li>
+<li><a href="resume.html">Resume</a></li>
+<li><a href="portfolio.html">Portfolio</a></li>
+<li><a href="blog.html">Blog</a></li>
+<li><a href="contact.html">Contact Me</a></li>
+</ul>
+
+<div style="text-align: center;">
+	<img src="images/quotes.jpg" width="350" weight="600">
+</div>
+
+<!--**********SIDEBAR SECTION END********** -->
+<td>
+</td>
+
+
+
+
+</td>
+<!--**********CONTENT SECTION END********** -->
+
+</tr>
+<!--**********SECOND ROW END********** -->
+
+
+
+
+
+
+<!--**********THIRD ROW START********** -->
+<tr>
+
+<!--**********FOOTER SECTION START********** -->
+<td colspan="2" bgcolor="#D7DBDD">
+
+
+<div style="text-align: center;">
+
+<p>Contact me via my student email or my phone number :</p>
+
+<p><a href="tel:+60197222099">+60197222099</a></p>
+
+<p><a href="mailto:2022931101@student.uitm.edu.my">Send email</a></p>
+
+<h2>Copyright &copy;</h2>
+
+</div>
+</td>
+
+<!--**********FOOTER SECTION END********** -->
+
+</tr>
+<!--**********FOOTER ROW END********** -->
+
+
+
+</table>
+
+</body>
+</head>
+</html>
